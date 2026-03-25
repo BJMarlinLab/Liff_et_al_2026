@@ -1,6 +1,8 @@
 # kpMoSeq_analysis
 Analyze and plot kpMoSeq dataframes
 
+This code was written for the analysis of data in Liff et al., 2026 (https://doi.org/10.7554/eLife.92882.2).
+
 This code assumes that you have already run kpMoSeq (https://keypoint-moseq.readthedocs.io/en/latest/) and have generated the following files from your data:
 - moseq_df
 - stats_df
